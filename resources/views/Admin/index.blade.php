@@ -6,4 +6,4 @@
         <h1>this is awesome</h1>
     </div>
 </div>
-@endsection
+@endsection 
